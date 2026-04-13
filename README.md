@@ -66,9 +66,10 @@ Ce projet regroupe les compétences que j’ai développées durant mon BUT R&T,
 
 ## 👨‍💻 À propos de moi  
 
+Lien de mon portfolio : [Mon site](https://yayamar27.github.io/Portfolio-BUTRT2/)
+
 ```bash
 Name        : Rayan MARZOUGUE
 Formation   : BUT Réseaux & Télécommunications
 Spécialité  : Cybersécurité
 Objectif    : Alternance en IT / Cyber
-Lien de mon portfolio : 
